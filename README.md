@@ -23,4 +23,4 @@
 - **フロントエンド (Next.js)**: [https://github.com/assistIwatsubo/saien-nisshi-frontend]
 
 ## 🖼 プレビュー / 設計
-
+<img width="2251" height="1771" alt="Image" src="https://github.com/user-attachments/assets/9e7089ef-b348-4c86-9abb-0e00d932eedd" />
